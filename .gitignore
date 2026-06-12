@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large pcap files (optional - remove if you want to track them)
+# *.pcapng
+# *.pcap
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Editor configs
+.vscode/
+.idea/
